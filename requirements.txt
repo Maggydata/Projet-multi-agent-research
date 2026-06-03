@@ -1,0 +1,14 @@
+# Kernel notebook
+ipykernel
+
+# Core LangGraph + LangChain
+langgraph
+langchain
+langchain-openai
+langchain-community
+
+# Web Research Tavily
+langchain-tavily
+
+# Virtual environment Loading
+python-dotenv
