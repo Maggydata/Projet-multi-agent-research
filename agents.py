@@ -88,7 +88,7 @@ Here are the collected research results :
 {research_text}
 {revision_instruction}
 
-Write a clear and structured report in English, with :
+Write a clear and structured report in French, with :
 - an introduction,
 - sections with subtitles,
 - a conclusion.

@@ -95,4 +95,8 @@ multi-agent-research-assistant/
 └── README.md
 ```
 
+## Demo
+
+![Demo of the multi-agent pipeline](images/demo.gif)
+
 
